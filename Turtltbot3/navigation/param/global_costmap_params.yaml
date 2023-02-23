@@ -1,9 +1,0 @@
-global_costmap:
-  global_frame: map     # Set map frame
-  robot_base_frame: base_footprint  # Set robot base frame
-
-  update_frequency: 10.0    
-  publish_frequency: 10.0
-  transform_tolerance: 0.5  # Transformation tolerance distance
-
-  static_map: true    # Determining whether a user will use a given map
